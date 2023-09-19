@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 
-from src.features.config import (ANNUAL_INCOME_0, ANNUAL_INCOME_1,
+from config import (ANNUAL_INCOME_0, ANNUAL_INCOME_1,
                                  ANNUAL_INCOME_2, BROKEN_DEVELOPED,
                                  CHANGED_CREDIT_LIMIT_0,
                                  CHANGED_CREDIT_LIMIT_1,

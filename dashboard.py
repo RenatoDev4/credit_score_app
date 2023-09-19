@@ -1,6 +1,6 @@
 import streamlit as st
 
-from src.models.predict_model import (apply_transformations, fx_score,
+from predict_model import (apply_transformations, fx_score,
                                       pred_score)
 
 st.set_page_config(
